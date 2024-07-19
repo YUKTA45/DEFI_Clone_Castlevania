@@ -36,32 +36,60 @@ Now, connect to Metamask and choose Injected provider - Metamask in Remix IDE.
 ## ERC20 Token
 
 Minting: Create new tokens and add them to an account.
+
+
 Burning: Destroy tokens and remove them from an account.
+
+
 Transfer: Move tokens from one account to another.
+
+
 Approval: Allow an account to spend tokens on behalf of another.
 
 ## Vault
 
 Deposit: Store tokens in the vault.
+
+
 Withdraw: Retrieve tokens from the vault.
+
+
 Balance Inquiry: Check the balance of tokens for an account in the vault.
 ## KingdomAssets
 
 Minting: Create new in-game assets and assign them to a player.
+
+
 Transferring: Move in-game assets from one player to another.
+
+
 Metadata Management: Store and retrieve metadata for in-game assets.
 ## KnightsGuild
 
 Register: Enlist a new knight with a name.
+
+
 Add XP: Increase experience points (XP) for knights.
+
+
 Level Up: Automatically level up knights based on XP.
+
+
 Leaderboard: View a ranked list of knights based on their XP and levels.
+
+
 Claim Achievement: Unlock and claim achievements for knights.
 ## EnchantedBazaar
 
 List Item: Put an in-game item up for sale with a specified price.
+
+
 Buy Item: Purchase an in-game item from the marketplace.
+
+
 Remove Listing: Withdraw an item from the marketplace.
+
+
 View Listings: Get a list of all items currently available for sale.
 
 # Working
